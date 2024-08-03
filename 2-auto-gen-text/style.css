@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Inter:wght@100..900&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
+.container{
+    padding: 0,100pz;
+    margin: 0 auto;
+    height: 100vh;
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 48px;
+    transition: .3s ease-in-out;
+}
